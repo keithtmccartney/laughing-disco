@@ -8,7 +8,8 @@ Grab the article at [https://www.c-sharpcorner.com/article/drag-drop-images-from
 * Run a local install of the various packages: ```npm install```;
 * Run any individual tests via the default Karma: ```ng test```;
 * Run all tests end-to-end via the default Protractor: ```ng e2e```;
-* Serve the app: ```ng serve```;
+* Serve the app for local throughput: ```ng serve```;
+* Build the app for distributed throughout: ```ng build```;
 * Access the app: [http://localhost:4200/](http://localhost:4200/);
 
 ## Errors Experienced
