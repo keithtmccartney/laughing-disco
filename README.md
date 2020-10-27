@@ -13,7 +13,12 @@ Grab the article at [https://www.c-sharpcorner.com/article/drag-drop-images-from
 
 ## Notes:
 
-* Abc;
+* Updating angular/cli to the latest version: ```npm install -g @angular/cli@latest``` (as of 27th October 2020 this is 10.2.0);
+* Creating a new project: ```ng new ImageDragDrop```;
+* Adding a new Component: ```ng g c image-upload```;
+* Adding a new Directive: ```ng g d ImageDrag```;
+* Adding a new Component: ```ng g i file-handle```;
+* Serving the app: ```ng serve```;
 
 ## What's it all about?
 
