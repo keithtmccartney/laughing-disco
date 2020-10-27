@@ -5,7 +5,9 @@ Grab the article at [https://www.c-sharpcorner.com/article/drag-drop-images-from
 
 ## Tips/Run
 
-* Abc;
+* Run a local install of the various packages: ```npm install```;
+* Serve the app: ```ng serve```;
+* Access the app: [http://localhost:4200/](http://localhost:4200/);
 
 ## Errors Experienced
 
@@ -18,7 +20,6 @@ Grab the article at [https://www.c-sharpcorner.com/article/drag-drop-images-from
 * Adding a new Component: ```ng g c image-upload```;
 * Adding a new Directive: ```ng g d ImageDrag```;
 * Adding a new Component: ```ng g i file-handle```;
-* Serving the app: ```ng serve```;
 
 ## What's it all about?
 
